@@ -1,7 +1,8 @@
 # mtn-customer-churn-subscription-analysis
 Interactive Power BI dashboard analyzing MTN customer churn, subscription trends, and geographic performance to support retention and revenue growth decisions.
-MTN Customer Churn & Subscription Analysis
-Business Problem / Objective
+
+**MTN Customer Churn & Subscription Analysis**
+**Business Problem / Objective**
 
 MTN aims to reduce customer churn while improving subscription adoption and revenue performance across different regions, devices, and subscription plans.
 
@@ -11,9 +12,9 @@ This project answers the key business question:
 
 How can MTN reduce customer churn and improve subscription performance using customer, device, and geographic insights?
 
-Dataset Overview
-
-Data Source: Telecom customer subscription and usage data (simulated dataset)
+**Dataset Overview
+**
+Data Source: Telecom customer subscription and usage data 
 
 Scope: Customer activity, churn behavior, subscription plans, device usage, and regional performance
 
@@ -21,7 +22,7 @@ Geography: Nigeria (state-level analysis)
 
 Customer Volume: 974 total customers
 
-Key Metrics Tracked
+**Key Metrics Tracked**
 
 Total Customers
 
@@ -35,7 +36,7 @@ Average Satisfaction Rate
 
 Churned vs Retained Customers
 
-Tools Used
+**Tools Used**
 
 Power BI – Data modeling and dashboard development
 
@@ -43,8 +44,8 @@ DAX – Measures and KPIs calculation
 
 Data Visualization – Interactive charts, filters, and drill-downs
 
-Data Cleaning & Preparation
-
+**Data Cleaning & Preparation
+**
 The dataset was prepared to ensure accurate analysis and reporting by:
 
 Removing duplicate customer records
@@ -57,8 +58,8 @@ Ensuring correct data types for numeric and date columns
 
 Creating calculated fields for churn rate, retention rate, and average tenure
 
-Data Modeling
-
+**Data Modeling
+**
 A structured data model was implemented consisting of:
 
 Fact Table: Customer transactions and churn status
@@ -75,8 +76,8 @@ Geography (State)
 
 Time
 
-Key Measures Created
-
+**Key Measures Created
+**
 Total Revenue
 
 Total Purchases
@@ -89,7 +90,7 @@ Average Tenure (Months)
 
 Average Satisfaction Rate
 
-Key Questions Addressed
+**Key Questions Addressed**
 
 What percentage of customers are churning versus retained?
 
@@ -103,8 +104,8 @@ How does churn vary by gender and region?
 
 Which states contribute the most revenue?
 
-Dashboard Overview
-Churn Insight & Customer Behavior
+**Dashboard Overview**
+**Churn Insight & Customer Behavior**
 
 This dashboard highlights:
 
@@ -124,7 +125,7 @@ Churn analysis by gender
 
 Customer trend analysis over time
 
-Subscription & Geographic Performance
+**Subscription & Geographic Performance**
 
 This dashboard focuses on:
 
@@ -138,7 +139,7 @@ Top purchasing devices (Mobile SIM Card, 5G Router, Broadband MiFi)
 
 Comparison of churned vs retained customers
 
-Key Insights
+**Key Insights**
 
 29% of customers churned, while 71% were retained, indicating moderate churn risk
 
@@ -152,7 +153,7 @@ Certain states significantly outperformed others in total revenue contribution
 
 Subscription preference varied widely, suggesting the need for targeted offerings
 
-Business Recommendations
+**Business Recommendations**
 
 Review and optimize pricing strategies to address high call tariff concerns
 
@@ -164,7 +165,7 @@ Promote high-performing subscription plans and devices more aggressively
 
 Use regional performance insights to guide infrastructure investment
 
-Conclusion
+**Conclusion**
 
 This analysis provides MTN with a data-driven understanding of customer churn, subscription performance, and geographic trends.
 
