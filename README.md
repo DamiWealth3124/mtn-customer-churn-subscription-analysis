@@ -14,6 +14,7 @@ This project answers the key business question:
 How can MTN reduce customer churn and improve subscription performance using customer, device, and geographic insights?
 
 **Dataset Overview**
+
 Data Source: Telecom customer subscription and usage data 
 
 Scope: Customer activity, churn behavior, subscription plans, device usage, and regional performance
@@ -59,6 +60,7 @@ Ensuring correct data types for numeric and date columns
 Creating calculated fields for churn rate, retention rate, and average tenure
 
 **Data Modeling**
+
 A structured data model was implemented consisting of:
 
 Fact Table: Customer transactions and churn status
@@ -76,6 +78,7 @@ Geography (State)
 Time
 
 **Key Measures Created**
+
 Total Revenue
 
 Total Purchases
@@ -103,6 +106,7 @@ How does churn vary by gender and region?
 Which states contribute the most revenue?
 
 **Dashboard Overview**
+
 **Churn Insight & Customer Behavior**
 
 This dashboard highlights:
