@@ -6,15 +6,15 @@ Fact Table: Customer transactions and churn status
 
 Dimension Tables:
 
-Customer demographics
+- Customer demographics
 
-Subscription plans
+- Subscription plans
 
-Devices
+- Devices
 
-Geography (State)
+- Geography (State)
 
-Time
+- Time
 
 **Key Measures Created**
 
