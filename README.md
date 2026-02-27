@@ -2,6 +2,7 @@
 Interactive Power BI dashboard analyzing MTN customer churn, subscription trends, and geographic performance to support retention and revenue growth decisions.
 
 **MTN Customer Churn & Subscription Analysis**
+
 **Business Problem / Objective**
 
 MTN aims to reduce customer churn while improving subscription adoption and revenue performance across different regions, devices, and subscription plans.
