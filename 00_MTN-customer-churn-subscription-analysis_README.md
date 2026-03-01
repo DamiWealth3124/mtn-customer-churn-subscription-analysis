@@ -116,7 +116,7 @@ Dimension Tables:
 
 **Churn Insight & Customer Behavior**
 
-![](images/images/MTN Churn & Subscription Dashboard.png)
+![](images/images/MTN_Churn_&_Subscription_Dashboard.png)
 
 This dashboard highlights:
 Overall churn and retention distribution
