@@ -84,6 +84,8 @@ Dimension Tables:
 
 **Key Measures Created**
 
+![](images/images/MTN_DAX_Measures.png)
+
 - Total Revenue
 
 - Total Purchases
@@ -114,6 +116,8 @@ Dimension Tables:
 
 **Churn Insight & Customer Behavior**
 
+![](images/images/MTN Churn & Subscription Dashboard.png)
+
 This dashboard highlights:
 Overall churn and retention distribution
 
@@ -132,6 +136,8 @@ Customer churn reasons such as:
 - Customer trend analysis over time
 
 **Subscription & Geographic Performance**
+
+![](images/images/MTN Geo & Subscription Dashboard.png)
 
 This dashboard focuses on:
 
