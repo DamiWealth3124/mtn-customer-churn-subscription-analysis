@@ -137,7 +137,7 @@ Customer churn reasons such as:
 
 **Subscription & Geographic Performance**
 
-![](images/images/MTN Geo & Subscription Dashboard.png)
+![](images/images/MTN_Geo_&_Subscription_Dashboard.png)
 
 This dashboard focuses on:
 
